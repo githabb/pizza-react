@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/two-react/static/css/main.36c20076.css",
+    "main.js": "/two-react/static/js/main.270122bf.js",
+    "static/media/pizza-logo.svg": "/two-react/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/two-react/index.html",
+    "main.36c20076.css.map": "/two-react/static/css/main.36c20076.css.map",
+    "main.270122bf.js.map": "/two-react/static/js/main.270122bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36c20076.css",
+    "static/js/main.270122bf.js"
+  ]
+}
