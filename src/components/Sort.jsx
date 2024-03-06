@@ -22,7 +22,11 @@ function Sort() {
 
   React.useEffect(() => {
     const handleClickOutside = (event) => {
-      if (!event.path.includes(sortRef.current)) {
+      // if (!event.path.includes(sortRef.current)) {
+      //   setOpen(false);
+      //   console.log('click outside');
+      // }
+      if (!sortRef.current.contains(event.target)) {
         setOpen(false);
         console.log('click outside');
       }
